@@ -1,0 +1,30 @@
+{
+ "name": "上岗证刷题 · 实验室基础知识",
+ "short_name": "上岗证刷题",
+ "description": "生态环境监测技术人员持证上岗考核 第1章基础知识 刷题工具（离线可用）",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F4F6F5",
+ "theme_color": "#1AA179",
+ "lang": "zh-CN",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
